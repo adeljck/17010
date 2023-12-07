@@ -1,0 +1,5 @@
+*.exe
+*.msi
+windows
+./windows/*
+*.7z
